@@ -1,6 +1,6 @@
 # pocket-pce-library-images
-Pocket PC Engine/TurboGrafx-16/SuperGrafx Library Images
+PC Engine/TurboGrafx-16/SuperGrafx library images for the Analogue Pocket
 
-Check the releases folder for the latest zip.
+Check the [releases link](https://github.com/g026r/pocket-pce-library-images/releases) for the latest zips.
 
 To install, unzip the archive & put the resulting `pce` folder in the `/System/Library/Images` directory on your sdcard.
